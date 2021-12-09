@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Django and AWS Services
 - 💞️ I’m looking to collaborate on github java forum to help others in fixing their concerns and issues
 - 📫 How to reach me ...
+-    LinkedIn - https://www.linkedin.com/in/aditya4196/
+-    Gmail - adityajadhav537@gmail.com
 
 <!---
 aditya4196/aditya4196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
