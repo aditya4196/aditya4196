@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya4196
--  I’m interested in Java and Software Development
+-  I’m interested in Java, Python and Software Development
 -  I’m currently learning Django and AWS Services
--  I’m looking to collaborate on github java forum to help others in fixing their concerns and issues
+-  I’m looking to collaborate on github forum to help others in fixing their concerns and issues
 -  How to reach me ...
 -    LinkedIn - https://www.linkedin.com/in/aditya4196/
 -    Gmail - adityajadhav537@gmail.com
