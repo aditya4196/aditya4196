@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aditya4196
--  I’m interested in Java, Python and Software Development
+-  I’m interested in Devops, Java and Python
+-  I have worked on Docker and Openshift
 -  I’m currently learning Django and AWS Services
 -  I’m looking to collaborate on github forum to help others in fixing their concerns and issues
 -  How to reach me ...
