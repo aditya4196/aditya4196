@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya4196
 -  I’m interested in Devops, Java and Python
 -  I have worked on Docker and Openshift
--  I’m currently learning Django and AWS Services
+-  I’m currently learning AWS Services and would like to become a Solution Architect
 -  I’m looking to collaborate on github forum to help others in fixing their concerns and issues
 -  How to reach me ...
 -    LinkedIn - https://www.linkedin.com/in/aditya4196/
