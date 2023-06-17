@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aditya4196
--  I’m a Java, Python and R developer
+-  I’m a Full-Stack Developer proficient in Java, R and python as Back-End and TypeScript as Front-End
 -  I have worked on Docker and Kubernetes
--  I’m currently learning AWS Services and would like to become a Solution Architect
--  I’m looking to collaborate on github forum to help others in fixing their concerns and issues
+-  My goal is to become a Solution Architect
+-  I’m looking to collaborate on github forum to help resolving issues and help myself learn some new efficient solutions in solving real-world problems
 -  How to reach me ...
 -    LinkedIn - https://www.linkedin.com/in/aditya4196/
 -    Gmail - adityajadhav537@gmail.com
