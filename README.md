@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aditya4196
--  I’m a Full-Stack Developer proficient in Java, R and python as Back-End and TypeScript as Front-End
+-  I’m a Full-Stack Developer proficient in Java and python as Back-End and Angular as Front-End
+-  Also an Open source contributor in Angular, Nextjs, React
 -  I have worked on Docker and Kubernetes
 -  My goal is to become a Solution Architect
 -  I’m looking to collaborate on github forum to help resolving issues and help myself learn some new efficient solutions in solving real-world problems
