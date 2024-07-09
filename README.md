@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Experienced Software Engineer<br>Currently working on building highly efficient simulation models<br>My goal is to become a Solutions Architect<br>Love watching animes<br>Love reading quick tech blogs
+I'm a Software Engineer<br>Currently working on building highly efficient simulation models<br>My goal is to become a Solutions Architect<br>Love watching animes<br>Love reading quick tech blogs
 
 
 ## 🌐 Socials:
